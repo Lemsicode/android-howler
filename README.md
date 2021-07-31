@@ -1,5 +1,5 @@
-# android-howler
-An android app to imitate the basic functions of the well-known social media app, Twitter. This project was made for educational purposes only.
+# Howler
+Howler is an android app that imitates the basic functions of the well-known social media app, Twitter. This project was made for educational purposes only.
 
 ## Running the files in Android Studio
 1. Either download the files through ZIP or Clone this using cmd by typing:<br />`git clone git@github.com:Lemsicode/android-howler.git`
